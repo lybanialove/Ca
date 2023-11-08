@@ -1,0 +1,5 @@
+result for 1 iteration: aasssddaasssdd
+result for 2 iteration: ssdddggssddd
+result for 3 iteration: sfs
+result for 4 iteration: a
+result for 5 iteration: d
